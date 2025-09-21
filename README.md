@@ -25,9 +25,7 @@ Subscription Manager is a comprehensive mobile application designed to help you 
 
 For any questions regarding these legal documents:
 
-- **Privacy inquiries**: privacy@subscriptionmanager.app
-- **Legal questions**: legal@subscriptionmanager.app
-- **General support**: support@subscriptionmanager.app
+- **Email**: tcrwgd@gmail.com
 
 ## Updates
 

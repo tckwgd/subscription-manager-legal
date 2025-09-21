@@ -179,8 +179,7 @@ These Terms constitute the entire agreement between you and Subscription Manager
 
 For questions about these Terms, please contact us:
 
-- **Email**: legal@subscriptionmanager.app
-- **Support**: support@subscriptionmanager.app
+- **Email**: tcrwgd@gmail.com
 - **GitHub**: [https://github.com/subscription-manager/legal](https://github.com/subscription-manager/legal)
 - **Website**: [https://subscriptionmanager.app](https://subscriptionmanager.app)
 

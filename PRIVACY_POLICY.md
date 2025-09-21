@@ -117,7 +117,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-- **Email**: privacy@subscriptionmanager.app
+- **Email**: tcrwgd@gmail.com
 - **GitHub**: [https://github.com/subscription-manager/legal](https://github.com/subscription-manager/legal)
 
 ## Additional Rights for Specific Regions
